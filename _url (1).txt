@@ -1,0 +1,294 @@
+-HTML/CSS
+http://www.DivCity.com
+http://www.deimoscomics.com
+https://lancesoft.com/ (HTML, CSS, Bootstrap)
+http://www.pspaws.co.uk/ (HTML, CSS, Bootstrap)
+https://www.santmira.com/ (HTML, CSS, Bootstrap, Javascript, jQuery)
+
+-Bootstrap, Jquery, 
+https://lanabgroup.se/ 
+https://langcorrect.com/ 
+http://pizza-hub.in/ 
+https://www.har.com/ (JQuery, Bootstrap, AWS)
+https://www.topebio.com/ (google analytics, python, bootstrap)
+http://www.pspaws.co.uk/ bootstrap
+https://www.har.com/ (JQuery, Bootstrap, AWS)
+https://www.santmira.com/ (Wix, React.js)
+http://www.smt-spare-part.com/ (bootstrap, jQuery, CNZZ for analytics)
+https://www.coastalcbdwellness.com/(Bootstrap, jQuery, React.js)
+
+-React.js
+https://www.tourplus.my/(PHP, WordPress)
+http://www.iodine.com/
+https://covidgo.io   
+https://www.aimro.ie/(React, Gatsby)
+http://safewayfoundation.org/ 
+https://www.vitahealth.net.au/(React, Gatsby, MailChimp, reCAPTCHA)
+wwwdev.dfx.yoursitetobe.com
+https://www.gopanache.com/
+https://www.patreon.com/
+https://livesessions.npr.org/ (React, Express, Node.js)
+https://shopee.com.my/
+https://food.grab.com/sg/en/ (React, Next.js, Node.js, Ant Design)
+https://www.futurelearn.com/ (React, Next.js, Node.js, TypeScript, Tailwind CSS)
+-->https://jeremyslive.com/
+-->https://www.realestatewebinars.com.au/
+-->https://www.uconnected.com.au/
+-->https://www.southiemap.com/
+-->https://www.aluahotels.com/
+
+-React+AWS:
+https://www.abracar.de/
+
+-React.js + Next.js + Node.js + AWS
+https://www.realtor.com/ 
+
+-Vue.js
+https://e-kontur.ru/businessstart 
+http://bookalokal.com
+https://ibobil.as/ 
+https://staging.mewbuilds.com/
+https://app.bancor.network/(Vue.js)
+https://groovekart.com/(Vue)
+
+-Vue/Nuxt
+https://tutorful.co.uk/ 
+https://coach.io/
+
+-AngularJS/Angular
+http://os.bitpool.com/
+https://library.fresnostate.edu/
+http://go.cps.edu/
+knotable.com (beta.knotable.com)
+https://opacity.io
+https://ulock.tzar.su
+www.healthcompare.com/
+https://teachable.com/(Angular.js)
+http://www.highlowglitter.com/(Angular.js, AWS)
+http://www.unitedhardscapes.com/(Angular v11, Express.js, node.js)
+http://jdlandscaping.net/(Angular v11, Express.js, node.js)
+https://shop.sraps.ch/ (Angular v11)
+https://karnistationeryhouse.com/(Angular v9)
+https://www.landsend.com/(Angular, Java)
+https://justacredit.com/(Angular v8)
+https://kidscity.life/(Angular v8)
+https://blowfire.geex-arts.com/(Angular v5)
+
+-Angular/Express/Node
+
+http://www.unitedhardscapes.com/(Angular v11, Express.js, node.js)
+http://jdlandscaping.net/(Angular v11, Express.js, node.js)
+
+-Node/Express
+http://kidneython.com/ (node.js, Express.js)
+https://fitara.in/ (node.js, Express.js)
+
+-Next/node
+https://www.realtor.com/ (React.js, Next.js, Node.js, AWS)
+https://www.zillow.com/ (React.js, Next.js, Node.js, AWS, Java)
+
+
+-three.js:
+https://www.kodeclubs.com/
+https://zen.ly/
+https://bruno-simon.com/
+https://degirum.videinfra.com/
+
+-React Native
+https://play.google.com/store/apps/details?id=com.dbazzar.apptwo&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.flu.flf
+https://play.google.com/store/apps/developer?id=Packages+Mall&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.Imagescaler.app&hl=en&gl=US
+https://apps.apple.com/pk/app/zuco-nightclub/id1590160441
+https://apps.apple.com/pk/app/freshleafuae/id1599931071
+https://apps.apple.com/us/app/jogo-ai/id1524472015
+https://play.google.com/store/apps/details?id=com.SportsTalentVisionBV&hl=en&gl=US
+https://play.google.com/store/apps/details?id=com.SportsTalentVisionBV
+https://apps.apple.com/us/app/jogo-ai/id1524472015
+
+
+-ASP.NET
+http://diply.com
+http://Ancestry.com
+
+-Laravel
+http://safewayfoundation.org/ 
+https://coach.io/
+https://greentekreman.com
+https://mycreatorhive.com/
+https://inboxtrack.io/home
+http://divinehomepro.scriptscode7.com/
+https://www.fsb.org.uk/
+https://justacredit.com/
+
+-Laravel + Google Map:
+
+http://divinehomepro.scriptscode7.com/
+
+-python:
+http://www.datalive.com.au/
+http://www.thornlighting.com.au/en-au
+
+-Django:
+
+https://www.logaster.com/
+
+
+-Fabric Js
+https://gaggenau.com
+https://www.siemens-home.bsh-group.com/
+http://walkersfurniture.com/
+
+-Mobile
+https://play.google.com/store/apps/details?id=com.urbytus.login_signup
+
+-SiteBuilder:
+
+https://mysiteupp.com/
+test1@example.com - 123456
+ 
+-Ruby & Lua
+
+https://store.es/
+https://qutor.com/
+https://www.handy.com/
+ 
+-CI:
+
+https://cjagora.com/
+http://freelancingprofit.com/
+ 
+ - Cs-cart
+https://artefac.com/
+https://artefac.ca/
+https://www.giraffe-graphics.co.uk/
+https://threadstudio.co.uk/ 
+https://basketcom.com/basket/
+
+-Design URL:
+http://mydevelop.website/work/
+ 
+-Highcharts:
+https://weather.sathy.us/graphs/?graph=homepage
+https://www.meteomurcia.com/weather34dashboard.php
+ 
+-Java:
+https://www.sartorius.com/en
+ 
+-CMS + MailChimp + Angular + Zone.js:
+https://www.htmlconversions.com/
+ 
+
+-Amazon + jQuery + Salesforce + Amazon Pay
+http://www.dolcegabbana.com
+
+-Azure + Microsoft ASP.NET + jQuery
+https://www.cintas.com/ 
+
+-PHP + CodeIgniter + jQuery + Boostrap
+http://www.sharafcogroup.com/ 
+
+-PHP + Siteground + jQuery
+https://www.corpdesign.com/ 
+
+-PHP
+https://www.corpdesign.com/
+ 
+-WordPress
+https://www.yolke.co.uk/
+https://www.thebrave.com.au/
+https://www.thewodlife.com.au/
+https://drivedge.com/
+http://quartrback.com/
+https://saxandthecityband.ie/
+http://farooquiinternationals.com/
+http://indorekart.com/
+https://med-vise.com/shop/
+https://bidfrail.com/
+https://housinganywhere.com/
+https://www.clickdesk.com/ live chat, bot etc on wordpress
+https://www.sktthemes.org/ wordpress(woocommerce) with stripe and Sass
+https://luzukdemo.com/ wordpress
+https://www.happyhoundsmk.co.uk/ write theme wordpress with google analytics
+https://www.idpesport.co.uk/ Avada theme
+https://grudgemotorsports.pro woocommerce
+https://www.vividracing.com/ woocommerce
+https://battinglab.com/ woocommerce
+https://pronosticos.co/ wordpress betting
+https://www.cottongraphics.co.uk/
+https://istanbulapartmentsforsale.com/ real estate website
+https://assuredheatingessex.com/wp-admin/
+https://schedugr.am/
+
+-Ecommerce
+https://www.nelsoncarhire.co.nz/ [Car Hire with Online Quote]
+https://vitalitynz.nz/ [Farming knowledge + E-commerce]
+https://www.crossroadsmarlb.nz [Single page layout + Charitable trust information site]
+https://woodlea.co.nz [Flower shop E-commerce site]
+http://www.mateguru.co.nz [Coffee E-commerce site]
+https://www.jesterhouse.co.nz [Tour Travel Online Hotel Table Booking Site]
+https://a1taxicabs.co.uk/ [Online Taxi Booking Site]
+https://www.cartener.com/ [E-commerce online shopping cart]
+https://fundamentalcaretraining.org.uk/ [Online Membership Subscription]
+http://gadgetstyle.co.uk/ [E-commerce wholesale, retail + blog]
+http://orderacab.co.uk/ [Online Taxi Booking Plugin Purchased]
+https://petcareproducts.co.uk/ [Petcare E-commerce site]
+https://scottytours.com/ [Online Scottytour booking site]
+https://subtledesires.com/ [E-commerce site]
+https://constantinessalon.co.uk/ [Online Hair Saloon and Blog site]
+https://www.executiveroofing.co.uk/ [Roof Repair and New Roof Services site]
+https://precisionheatingplumbing.co.uk/ [Online Heating and Plumbing site]
+http://buildmyfundraiser.com/ [Ecommerce]
+http://www.zandla.co.za [Ecommerce]
+
+-Drupal
+https://www.brilliance.com/
+
+-Magento:
+https://www.idcreator.com/
+https://www.veari.com/
+ 
+-Wix:
+https://www.i2sinc.com/
+https://snoodlet.wixsite.com/ferazon
+https://www.bloomip.co.uk/ wix
+ 
+ -Healthy:
+https://www.maiia.com/
+https://www.keldoc.com/
+https://www.whatclinic.com/
+
+-Shopify
+https://www.boody.com.au/
+https://www.raverswag.com/
+https://hauserstores.com/
+https://www.luxyhair.com/
+http://www.volumon.com - Online Product selling website
+http://sadiaslayy.com/ Online cosmatic products
+http://www.jelliezbeauty.com - Online cosmatic products
+https://mightyskins.com/(Shopify)
+https://homesperception.com (Shopify)
+https://waniperfumes.ca/ (Shopify)
+
+-Shopify(code)
+https://www.builtinla.com/ (vue, drupal 8, nuxt.js, node, facebook, webpack, php, …)
+https://electricbikereview.com/ (AngulaJS, Vue 2.4.4 wordpress 5.4.1, php, mysql, Bootstrap 4.0 beta)
+https://www.catch.com.au/ (react 16.13.1, facebook, php ,…)
+https://www.hometown.in/ (react, Ecommerce, node, amazon, express, nginx..)
+https://boweryfarming.com/ (React, node, mongodb, mailchimp, facebook, meteor 1.7.0.3 ..)
+http://makentboats.trioangle.com
+
+-Squarespace
+https://www.seanwoolsey.com/ 
+https://www.artifactuprising.com/
+https://phreshink.com/
+
+-Blockchain
+http://gainpool.io/
+https://www.cryptokitties.co/ (Cryptocock)
+https://www.sandbox.game
+https://niftydudes.com/
+https://paper.io.com
+http://anandisha.com/polypoxajay/account
+http://anandisha.com/gainpool/index.html
+https://zac.finance/
